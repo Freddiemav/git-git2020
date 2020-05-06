@@ -1,2 +1,2 @@
 # git-git2020
-Training
+This is for training purpose
